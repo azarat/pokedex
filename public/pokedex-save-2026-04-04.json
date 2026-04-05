@@ -1,0 +1,2723 @@
+{
+  "version": 1,
+  "exportedAt": "2026-04-04T09:31:27.424Z",
+  "collection": [
+    {
+      "id": 37,
+      "name": "Vulpix",
+      "nameRu": "Вульпикс",
+      "types": [
+        "fire"
+      ],
+      "typesRu": [
+        "Огненный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/37.gif",
+      "height": 0.6,
+      "weight": 9.9,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 38
+        },
+        {
+          "name": "Атака",
+          "value": 41
+        },
+        {
+          "name": "Защита",
+          "value": 40
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 50
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 65
+        },
+        {
+          "name": "Скорость",
+          "value": 65
+        }
+      ],
+      "abilities": [
+        "Flash fire",
+        "Drought"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/37.ogg",
+      "caughtAt": 1775289879045,
+      "taskCompleted": {
+        "id": "pose-pokemon",
+        "emoji": "🧍",
+        "titleRu": "Покемон-поза!",
+        "descriptionRu": "Покажи позу этого покемона. Замри на 10 секунд!",
+        "category": "active",
+        "difficulty": 1,
+        "xpReward": 30
+      },
+      "xpEarned": 30
+    },
+    {
+      "id": 184,
+      "name": "Azumarill",
+      "nameRu": "Azumarill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "typesRu": [
+        "Водный",
+        "Волшебный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/184.gif",
+      "height": 0.8,
+      "weight": 28.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 100
+        },
+        {
+          "name": "Атака",
+          "value": 50
+        },
+        {
+          "name": "Защита",
+          "value": 80
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 60
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 80
+        },
+        {
+          "name": "Скорость",
+          "value": 50
+        }
+      ],
+      "abilities": [
+        "Thick fat",
+        "Huge power",
+        "Sap sipper"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg",
+      "caughtAt": 1775290009711,
+      "taskCompleted": {
+        "id": "compare",
+        "emoji": "⚖️",
+        "titleRu": "Сравни покемонов!",
+        "descriptionRu": "Сравни этого покемона с предыдущим. Кто сильнее и почему? Докажи!",
+        "category": "brain",
+        "difficulty": 3,
+        "xpReward": 80
+      },
+      "xpEarned": 80
+    },
+    {
+      "id": 126,
+      "name": "Magmar",
+      "nameRu": "Магмар",
+      "types": [
+        "fire"
+      ],
+      "typesRu": [
+        "Огненный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/126.gif",
+      "height": 1.3,
+      "weight": 44.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 65
+        },
+        {
+          "name": "Атака",
+          "value": 95
+        },
+        {
+          "name": "Защита",
+          "value": 57
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 100
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 85
+        },
+        {
+          "name": "Скорость",
+          "value": 93
+        }
+      ],
+      "abilities": [
+        "Flame body",
+        "Vital spirit"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/126.ogg",
+      "caughtAt": 1775290514105,
+      "taskCompleted": {
+        "id": "group-pose",
+        "emoji": "📸",
+        "titleRu": "Семейное фото!",
+        "descriptionRu": "Всей семьёй изобразите этого покемона и сделайте фото!",
+        "category": "team",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 317,
+      "name": "Swalot",
+      "nameRu": "Swalot",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/317.gif",
+      "height": 1.7,
+      "weight": 80,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 100
+        },
+        {
+          "name": "Атака",
+          "value": 73
+        },
+        {
+          "name": "Защита",
+          "value": 83
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 73
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 83
+        },
+        {
+          "name": "Скорость",
+          "value": 55
+        }
+      ],
+      "abilities": [
+        "Liquid ooze",
+        "Sticky hold",
+        "Gluttony"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/317.ogg",
+      "caughtAt": 1775290583038,
+      "taskCompleted": {
+        "id": "pokemon-walk",
+        "emoji": "🚶",
+        "titleRu": "Походка покемона!",
+        "descriptionRu": "Пройдись по комнате так, как ходил бы этот покемон!",
+        "category": "active",
+        "difficulty": 1,
+        "xpReward": 40
+      },
+      "xpEarned": 40
+    },
+    {
+      "id": 71,
+      "name": "Victreebel",
+      "nameRu": "Виктрибел",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "typesRu": [
+        "Травяной",
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/71.gif",
+      "height": 1.7,
+      "weight": 15.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 80
+        },
+        {
+          "name": "Атака",
+          "value": 105
+        },
+        {
+          "name": "Защита",
+          "value": 65
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 100
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 70
+        },
+        {
+          "name": "Скорость",
+          "value": 70
+        }
+      ],
+      "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/71.ogg",
+      "caughtAt": 1775290626056,
+      "taskCompleted": {
+        "id": "catchphrase",
+        "emoji": "💬",
+        "titleRu": "Коронная фраза!",
+        "descriptionRu": "Придумай коронную фразу для этого покемона. Скажи её с выражением!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 45
+      },
+      "xpEarned": 45
+    },
+    {
+      "id": 523,
+      "name": "Zebstrika",
+      "nameRu": "Zebstrika",
+      "types": [
+        "electric"
+      ],
+      "typesRu": [
+        "Электрический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/523.gif",
+      "height": 1.6,
+      "weight": 79.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 75
+        },
+        {
+          "name": "Атака",
+          "value": 100
+        },
+        {
+          "name": "Защита",
+          "value": 63
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 80
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 63
+        },
+        {
+          "name": "Скорость",
+          "value": 116
+        }
+      ],
+      "abilities": [
+        "Lightning rod",
+        "Motor drive",
+        "Sap sipper"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/523.ogg",
+      "caughtAt": 1775290698555,
+      "taskCompleted": {
+        "id": "pokemon-battle",
+        "emoji": "⚔️",
+        "titleRu": "Бой покемонов!",
+        "descriptionRu": "Изобрази атаку этого покемона! Сделай 5 ударов в воздух с криком покемона!",
+        "category": "active",
+        "difficulty": 2,
+        "xpReward": 50
+      },
+      "xpEarned": 50
+    },
+    {
+      "id": 598,
+      "name": "Ferrothorn",
+      "nameRu": "Ferrothorn",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "typesRu": [
+        "Травяной",
+        "Стальной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/598.gif",
+      "height": 1,
+      "weight": 110,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 74
+        },
+        {
+          "name": "Атака",
+          "value": 94
+        },
+        {
+          "name": "Защита",
+          "value": 131
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 54
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 116
+        },
+        {
+          "name": "Скорость",
+          "value": 20
+        }
+      ],
+      "abilities": [
+        "Iron barbs",
+        "Anticipation"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg",
+      "caughtAt": 1775290807741,
+      "taskCompleted": {
+        "id": "rhyme",
+        "emoji": "📝",
+        "titleRu": "Покемон-рифма!",
+        "descriptionRu": "Придумай рифму к имени этого покемона! Чем необычнее — тем больше очков!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 65
+      },
+      "xpEarned": 65
+    },
+    {
+      "id": 566,
+      "name": "Archen",
+      "nameRu": "Archen",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "typesRu": [
+        "Каменный",
+        "Летающий"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/566.gif",
+      "height": 0.5,
+      "weight": 9.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 55
+        },
+        {
+          "name": "Атака",
+          "value": 112
+        },
+        {
+          "name": "Защита",
+          "value": 45
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 74
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 45
+        },
+        {
+          "name": "Скорость",
+          "value": 70
+        }
+      ],
+      "abilities": [
+        "Defeatist"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/566.ogg",
+      "caughtAt": 1775291003758,
+      "taskCompleted": {
+        "id": "guess-type",
+        "emoji": "🤔",
+        "titleRu": "Угадай тип!",
+        "descriptionRu": "Не подглядывая, попробуй угадать тип этого покемона по его внешности!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 147,
+      "name": "Dratini",
+      "nameRu": "Дратини",
+      "types": [
+        "dragon"
+      ],
+      "typesRu": [
+        "Драконий"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/147.gif",
+      "height": 1.8,
+      "weight": 3.3,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 41
+        },
+        {
+          "name": "Атака",
+          "value": 64
+        },
+        {
+          "name": "Защита",
+          "value": 45
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 50
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 50
+        },
+        {
+          "name": "Скорость",
+          "value": 50
+        }
+      ],
+      "abilities": [
+        "Shed skin",
+        "Marvel scale"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg",
+      "caughtAt": 1775291065548,
+      "taskCompleted": {
+        "id": "group-pose",
+        "emoji": "📸",
+        "titleRu": "Семейное фото!",
+        "descriptionRu": "Всей семьёй изобразите этого покемона и сделайте фото!",
+        "category": "team",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 466,
+      "name": "Electivire",
+      "nameRu": "Electivire",
+      "types": [
+        "electric"
+      ],
+      "typesRu": [
+        "Электрический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/466.gif",
+      "height": 1.8,
+      "weight": 138.6,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 75
+        },
+        {
+          "name": "Атака",
+          "value": 123
+        },
+        {
+          "name": "Защита",
+          "value": 67
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 95
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 85
+        },
+        {
+          "name": "Скорость",
+          "value": 95
+        }
+      ],
+      "abilities": [
+        "Motor drive",
+        "Vital spirit"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/466.ogg",
+      "caughtAt": 1775291132048,
+      "taskCompleted": {
+        "id": "catchphrase",
+        "emoji": "💬",
+        "titleRu": "Коронная фраза!",
+        "descriptionRu": "Придумай коронную фразу для этого покемона. Скажи её с выражением!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 45
+      },
+      "xpEarned": 45
+    },
+    {
+      "id": 305,
+      "name": "Lairon",
+      "nameRu": "Lairon",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "typesRu": [
+        "Стальной",
+        "Каменный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/305.gif",
+      "height": 0.9,
+      "weight": 120,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 60
+        },
+        {
+          "name": "Атака",
+          "value": 90
+        },
+        {
+          "name": "Защита",
+          "value": 140
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 50
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 50
+        },
+        {
+          "name": "Скорость",
+          "value": 40
+        }
+      ],
+      "abilities": [
+        "Sturdy",
+        "Rock head",
+        "Heavy metal"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/305.ogg",
+      "caughtAt": 1775291210076,
+      "taskCompleted": {
+        "id": "pokemon-walk",
+        "emoji": "🚶",
+        "titleRu": "Походка покемона!",
+        "descriptionRu": "Пройдись по комнате так, как ходил бы этот покемон!",
+        "category": "active",
+        "difficulty": 1,
+        "xpReward": 40
+      },
+      "xpEarned": 40,
+      "evolvedFrom": 28
+    },
+    {
+      "id": 27,
+      "name": "Sandshrew",
+      "nameRu": "Сэндшру",
+      "types": [
+        "ground"
+      ],
+      "typesRu": [
+        "Земляной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/27.gif",
+      "height": 0.6,
+      "weight": 12,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 75
+        },
+        {
+          "name": "Защита",
+          "value": 85
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 20
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 30
+        },
+        {
+          "name": "Скорость",
+          "value": 40
+        }
+      ],
+      "abilities": [
+        "Sand veil",
+        "Sand rush"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/27.ogg",
+      "caughtAt": 1775291295826,
+      "taskCompleted": {
+        "id": "pose-pokemon",
+        "emoji": "🧍",
+        "titleRu": "Покемон-поза!",
+        "descriptionRu": "Покажи позу этого покемона. Замри на 10 секунд!",
+        "category": "active",
+        "difficulty": 1,
+        "xpReward": 30
+      },
+      "xpEarned": 30
+    },
+    {
+      "id": 444,
+      "name": "Gabite",
+      "nameRu": "Gabite",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "typesRu": [
+        "Драконий",
+        "Земляной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/444.gif",
+      "height": 1.4,
+      "weight": 56,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 68
+        },
+        {
+          "name": "Атака",
+          "value": 90
+        },
+        {
+          "name": "Защита",
+          "value": 65
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 50
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 55
+        },
+        {
+          "name": "Скорость",
+          "value": 82
+        }
+      ],
+      "abilities": [
+        "Sand veil",
+        "Rough skin"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/444.ogg",
+      "caughtAt": 1775291349194,
+      "taskCompleted": {
+        "id": "compare",
+        "emoji": "⚖️",
+        "titleRu": "Сравни покемонов!",
+        "descriptionRu": "Сравни этого покемона с предыдущим. Кто сильнее и почему? Докажи!",
+        "category": "brain",
+        "difficulty": 3,
+        "xpReward": 80
+      },
+      "xpEarned": 80
+    },
+    {
+      "id": 596,
+      "name": "Galvantula",
+      "nameRu": "Galvantula",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "typesRu": [
+        "Насекомый",
+        "Электрический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/596.gif",
+      "height": 0.8,
+      "weight": 14.3,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 70
+        },
+        {
+          "name": "Атака",
+          "value": 77
+        },
+        {
+          "name": "Защита",
+          "value": 60
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 97
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 60
+        },
+        {
+          "name": "Скорость",
+          "value": 108
+        }
+      ],
+      "abilities": [
+        "Compound eyes",
+        "Unnerve",
+        "Swarm"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/596.ogg",
+      "caughtAt": 1775291429898,
+      "taskCompleted": {
+        "id": "pokemon-food",
+        "emoji": "🍕",
+        "titleRu": "Любимая еда!",
+        "descriptionRu": "Придумай, что любит есть этот покемон. Опиши блюдо с названием!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 40
+      },
+      "xpEarned": 40
+    },
+    {
+      "id": 317,
+      "name": "Swalot",
+      "nameRu": "Swalot",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/317.gif",
+      "height": 1.7,
+      "weight": 80,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 100
+        },
+        {
+          "name": "Атака",
+          "value": 73
+        },
+        {
+          "name": "Защита",
+          "value": 83
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 73
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 83
+        },
+        {
+          "name": "Скорость",
+          "value": 55
+        }
+      ],
+      "abilities": [
+        "Liquid ooze",
+        "Sticky hold",
+        "Gluttony"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/317.ogg",
+      "caughtAt": 1775291446429,
+      "xpEarned": 25
+    },
+    {
+      "id": 158,
+      "name": "Totodile",
+      "nameRu": "Totodile",
+      "types": [
+        "water"
+      ],
+      "typesRu": [
+        "Водный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/158.gif",
+      "height": 0.6,
+      "weight": 9.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 65
+        },
+        {
+          "name": "Защита",
+          "value": 64
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 44
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 48
+        },
+        {
+          "name": "Скорость",
+          "value": 43
+        }
+      ],
+      "abilities": [
+        "Torrent",
+        "Sheer force"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/158.ogg",
+      "caughtAt": 1775291643879,
+      "taskCompleted": {
+        "id": "math-stats",
+        "emoji": "🔢",
+        "titleRu": "Покемон-математика!",
+        "descriptionRu": "Сложи ОЗ и Атаку этого покемона. Кто первый назовёт ответ — получает бонус!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 55
+      },
+      "xpEarned": 55
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "nameRu": "Алаказам",
+      "types": [
+        "psychic"
+      ],
+      "typesRu": [
+        "Психический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/65.gif",
+      "height": 1.5,
+      "weight": 48,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 55
+        },
+        {
+          "name": "Атака",
+          "value": 50
+        },
+        {
+          "name": "Защита",
+          "value": 45
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 135
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 95
+        },
+        {
+          "name": "Скорость",
+          "value": 120
+        }
+      ],
+      "abilities": [
+        "Synchronize",
+        "Inner focus",
+        "Magic guard"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/65.ogg",
+      "caughtAt": 1775291692948,
+      "taskCompleted": {
+        "id": "draw-pokemon",
+        "emoji": "🎨",
+        "titleRu": "Нарисуй покемона!",
+        "descriptionRu": "Нарисуй этого покемона за 2 минуты. Покажи всем свой шедевр!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 50
+      },
+      "xpEarned": 50
+    },
+    {
+      "id": 223,
+      "name": "Remoraid",
+      "nameRu": "Remoraid",
+      "types": [
+        "water"
+      ],
+      "typesRu": [
+        "Водный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/223.gif",
+      "height": 0.6,
+      "weight": 12,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 35
+        },
+        {
+          "name": "Атака",
+          "value": 65
+        },
+        {
+          "name": "Защита",
+          "value": 35
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 65
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 35
+        },
+        {
+          "name": "Скорость",
+          "value": 65
+        }
+      ],
+      "abilities": [
+        "Hustle",
+        "Sniper",
+        "Moody"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/223.ogg",
+      "caughtAt": 1775291924914,
+      "taskCompleted": {
+        "id": "team-build",
+        "emoji": "🏗️",
+        "titleRu": "Командная стройка!",
+        "descriptionRu": "Вместе постройте дом для этого покемона из подручных материалов за 3 минуты!",
+        "category": "team",
+        "difficulty": 3,
+        "xpReward": 100
+      },
+      "xpEarned": 100
+    },
+    {
+      "id": 641,
+      "name": "Tornadus-incarnate",
+      "nameRu": "Tornadus-incarnate",
+      "types": [
+        "flying"
+      ],
+      "typesRu": [
+        "Летающий"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/641.gif",
+      "height": 1.5,
+      "weight": 63,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 79
+        },
+        {
+          "name": "Атака",
+          "value": 115
+        },
+        {
+          "name": "Защита",
+          "value": 70
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 125
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 80
+        },
+        {
+          "name": "Скорость",
+          "value": 111
+        }
+      ],
+      "abilities": [
+        "Prankster",
+        "Defiant"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/641.ogg",
+      "caughtAt": 1775292019847,
+      "taskCompleted": {
+        "id": "invent-story",
+        "emoji": "📖",
+        "titleRu": "Сочини историю!",
+        "descriptionRu": "Придумай короткую историю про приключения этого покемона. 3 предложения минимум!",
+        "category": "creative",
+        "difficulty": 2,
+        "xpReward": 70
+      },
+      "xpEarned": 70
+    },
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "nameRu": "Випинбел",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "typesRu": [
+        "Травяной",
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/70.gif",
+      "height": 1,
+      "weight": 6.4,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 65
+        },
+        {
+          "name": "Атака",
+          "value": 90
+        },
+        {
+          "name": "Защита",
+          "value": 50
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 85
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 45
+        },
+        {
+          "name": "Скорость",
+          "value": 55
+        }
+      ],
+      "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/70.ogg",
+      "caughtAt": 1775292090315,
+      "taskCompleted": {
+        "id": "create-dance",
+        "emoji": "💃",
+        "titleRu": "Танец покемона!",
+        "descriptionRu": "Придумай фирменный танец для этого покемона и покажи его!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 109,
+      "name": "Koffing",
+      "nameRu": "Коффинг",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/109.gif",
+      "height": 0.6,
+      "weight": 1,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 40
+        },
+        {
+          "name": "Атака",
+          "value": 65
+        },
+        {
+          "name": "Защита",
+          "value": 95
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 60
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 45
+        },
+        {
+          "name": "Скорость",
+          "value": 35
+        }
+      ],
+      "abilities": [
+        "Levitate",
+        "Neutralizing gas",
+        "Stench"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg",
+      "caughtAt": 1775292137699,
+      "taskCompleted": {
+        "id": "guess-type",
+        "emoji": "🤔",
+        "titleRu": "Угадай тип!",
+        "descriptionRu": "Не подглядывая, попробуй угадать тип этого покемона по его внешности!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 266,
+      "name": "Silcoon",
+      "nameRu": "Silcoon",
+      "types": [
+        "bug"
+      ],
+      "typesRu": [
+        "Насекомый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/266.gif",
+      "height": 0.6,
+      "weight": 10,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 35
+        },
+        {
+          "name": "Защита",
+          "value": 55
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 25
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 25
+        },
+        {
+          "name": "Скорость",
+          "value": 15
+        }
+      ],
+      "abilities": [
+        "Shed skin"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/266.ogg",
+      "caughtAt": 1775292250099,
+      "taskCompleted": {
+        "id": "draw-pokemon",
+        "emoji": "🎨",
+        "titleRu": "Нарисуй покемона!",
+        "descriptionRu": "Нарисуй этого покемона за 2 минуты. Покажи всем свой шедевр!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 50
+      },
+      "xpEarned": 50
+    },
+    {
+      "id": 304,
+      "name": "Aron",
+      "nameRu": "Aron",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "typesRu": [
+        "Стальной",
+        "Каменный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/304.gif",
+      "height": 0.4,
+      "weight": 60,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 70
+        },
+        {
+          "name": "Защита",
+          "value": 100
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 40
+        },
+        {
+          "name": "Скорость",
+          "value": 30
+        }
+      ],
+      "abilities": [
+        "Sturdy",
+        "Rock head",
+        "Heavy metal"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/304.ogg",
+      "caughtAt": 1775292321785,
+      "taskCompleted": {
+        "id": "group-pose",
+        "emoji": "📸",
+        "titleRu": "Семейное фото!",
+        "descriptionRu": "Всей семьёй изобразите этого покемона и сделайте фото!",
+        "category": "team",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 322,
+      "name": "Numel",
+      "nameRu": "Numel",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "typesRu": [
+        "Огненный",
+        "Земляной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/322.gif",
+      "height": 0.7,
+      "weight": 24,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 60
+        },
+        {
+          "name": "Атака",
+          "value": 60
+        },
+        {
+          "name": "Защита",
+          "value": 40
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 65
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 45
+        },
+        {
+          "name": "Скорость",
+          "value": 35
+        }
+      ],
+      "abilities": [
+        "Oblivious",
+        "Simple",
+        "Own tempo"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/322.ogg",
+      "caughtAt": 1775292469030,
+      "xpEarned": 25
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "nameRu": "Blaziken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "typesRu": [
+        "Огненный",
+        "Боевой"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/257.gif",
+      "height": 1.9,
+      "weight": 52,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 80
+        },
+        {
+          "name": "Атака",
+          "value": 120
+        },
+        {
+          "name": "Защита",
+          "value": 70
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 110
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 70
+        },
+        {
+          "name": "Скорость",
+          "value": 80
+        }
+      ],
+      "abilities": [
+        "Blaze",
+        "Speed boost"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/257.ogg",
+      "caughtAt": 1775292709719,
+      "taskCompleted": {
+        "id": "clay-pokemon",
+        "emoji": "🏺",
+        "titleRu": "Слепи покемона!",
+        "descriptionRu": "Слепи этого покемона из пластилина или теста. Передай его характер!",
+        "category": "creative",
+        "difficulty": 3,
+        "xpReward": 100
+      },
+      "xpEarned": 100
+    },
+    {
+      "id": 315,
+      "name": "Roselia",
+      "nameRu": "Roselia",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "typesRu": [
+        "Травяной",
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/315.gif",
+      "height": 0.3,
+      "weight": 2,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 60
+        },
+        {
+          "name": "Защита",
+          "value": 45
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 100
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 80
+        },
+        {
+          "name": "Скорость",
+          "value": 65
+        }
+      ],
+      "abilities": [
+        "Natural cure",
+        "Poison point",
+        "Leaf guard"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/315.ogg",
+      "caughtAt": 1775292773136,
+      "taskCompleted": {
+        "id": "create-dance",
+        "emoji": "💃",
+        "titleRu": "Танец покемона!",
+        "descriptionRu": "Придумай фирменный танец для этого покемона и покажи его!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 174,
+      "name": "Igglybuff",
+      "nameRu": "Igglybuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "typesRu": [
+        "Нормальный",
+        "Волшебный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/174.gif",
+      "height": 0.3,
+      "weight": 1,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 90
+        },
+        {
+          "name": "Атака",
+          "value": 30
+        },
+        {
+          "name": "Защита",
+          "value": 15
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 20
+        },
+        {
+          "name": "Скорость",
+          "value": 15
+        }
+      ],
+      "abilities": [
+        "Cute charm",
+        "Competitive",
+        "Friend guard"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/174.ogg",
+      "caughtAt": 1775292841420,
+      "taskCompleted": {
+        "id": "pose-pokemon",
+        "emoji": "🧍",
+        "titleRu": "Покемон-поза!",
+        "descriptionRu": "Покажи позу этого покемона. Замри на 10 секунд!",
+        "category": "active",
+        "difficulty": 1,
+        "xpReward": 30
+      },
+      "xpEarned": 30
+    },
+    {
+      "id": 323,
+      "name": "Camerupt",
+      "nameRu": "Camerupt",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "typesRu": [
+        "Огненный",
+        "Земляной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/323.gif",
+      "height": 1.9,
+      "weight": 220,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 70
+        },
+        {
+          "name": "Атака",
+          "value": 100
+        },
+        {
+          "name": "Защита",
+          "value": 70
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 105
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 75
+        },
+        {
+          "name": "Скорость",
+          "value": 40
+        }
+      ],
+      "abilities": [
+        "Magma armor",
+        "Solid rock",
+        "Anger point"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/323.ogg",
+      "caughtAt": 1775292884669,
+      "taskCompleted": {
+        "id": "create-dance",
+        "emoji": "💃",
+        "titleRu": "Танец покемона!",
+        "descriptionRu": "Придумай фирменный танец для этого покемона и покажи его!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60,
+      "evolvedFrom": 159
+    },
+    {
+      "id": 110,
+      "name": "Weezing",
+      "nameRu": "Визинг",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/110.gif",
+      "height": 1.2,
+      "weight": 9.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 65
+        },
+        {
+          "name": "Атака",
+          "value": 90
+        },
+        {
+          "name": "Защита",
+          "value": 120
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 85
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 70
+        },
+        {
+          "name": "Скорость",
+          "value": 60
+        }
+      ],
+      "abilities": [
+        "Levitate",
+        "Neutralizing gas",
+        "Stench"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/110.ogg",
+      "caughtAt": 1775293088672,
+      "taskCompleted": {
+        "id": "team-story",
+        "emoji": "🎭",
+        "titleRu": "Покемон-театр!",
+        "descriptionRu": "Разыграйте сценку! Один — покемон, остальные — тренеры. Импровизация 1 минута!",
+        "category": "team",
+        "difficulty": 2,
+        "xpReward": 90
+      },
+      "xpEarned": 90,
+      "evolvedFrom": 224
+    },
+    {
+      "id": 611,
+      "name": "Fraxure",
+      "nameRu": "Fraxure",
+      "types": [
+        "dragon"
+      ],
+      "typesRu": [
+        "Драконий"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/611.gif",
+      "height": 1,
+      "weight": 36,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 66
+        },
+        {
+          "name": "Атака",
+          "value": 117
+        },
+        {
+          "name": "Защита",
+          "value": 70
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 50
+        },
+        {
+          "name": "Скорость",
+          "value": 67
+        }
+      ],
+      "abilities": [
+        "Rivalry",
+        "Mold breaker",
+        "Unnerve"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/611.ogg",
+      "caughtAt": 1775293163671,
+      "taskCompleted": {
+        "id": "compare",
+        "emoji": "⚖️",
+        "titleRu": "Сравни покемонов!",
+        "descriptionRu": "Сравни этого покемона с предыдущим. Кто сильнее и почему? Докажи!",
+        "category": "brain",
+        "difficulty": 3,
+        "xpReward": 80
+      },
+      "xpEarned": 80
+    },
+    {
+      "id": 230,
+      "name": "Kingdra",
+      "nameRu": "Kingdra",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "typesRu": [
+        "Водный",
+        "Драконий"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/230.gif",
+      "height": 1.8,
+      "weight": 152,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 75
+        },
+        {
+          "name": "Атака",
+          "value": 95
+        },
+        {
+          "name": "Защита",
+          "value": 95
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 95
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 95
+        },
+        {
+          "name": "Скорость",
+          "value": 85
+        }
+      ],
+      "abilities": [
+        "Swift swim",
+        "Sniper",
+        "Damp"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/230.ogg",
+      "caughtAt": 1775293230002,
+      "taskCompleted": {
+        "id": "pokemon-food",
+        "emoji": "🍕",
+        "titleRu": "Любимая еда!",
+        "descriptionRu": "Придумай, что любит есть этот покемон. Опиши блюдо с названием!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 40
+      },
+      "xpEarned": 40
+    },
+    {
+      "id": 252,
+      "name": "Treecko",
+      "nameRu": "Treecko",
+      "types": [
+        "grass"
+      ],
+      "typesRu": [
+        "Травяной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/252.gif",
+      "height": 0.5,
+      "weight": 5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 40
+        },
+        {
+          "name": "Атака",
+          "value": 45
+        },
+        {
+          "name": "Защита",
+          "value": 35
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 65
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 55
+        },
+        {
+          "name": "Скорость",
+          "value": 70
+        }
+      ],
+      "abilities": [
+        "Overgrow",
+        "Unburden"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/252.ogg",
+      "caughtAt": 1775293290514,
+      "taskCompleted": {
+        "id": "make-sound",
+        "emoji": "🎤",
+        "titleRu": "Озвучь покемона!",
+        "descriptionRu": "Придумай и изобрази звук, который издаёт этот покемон. Чем смешнее — тем лучше!",
+        "category": "creative",
+        "difficulty": 1,
+        "xpReward": 40
+      },
+      "xpEarned": 40
+    },
+    {
+      "id": 545,
+      "name": "Scolipede",
+      "nameRu": "Scolipede",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "typesRu": [
+        "Насекомый",
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/545.gif",
+      "height": 2.5,
+      "weight": 200.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 60
+        },
+        {
+          "name": "Атака",
+          "value": 100
+        },
+        {
+          "name": "Защита",
+          "value": 89
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 55
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 69
+        },
+        {
+          "name": "Скорость",
+          "value": 112
+        }
+      ],
+      "abilities": [
+        "Poison point",
+        "Swarm",
+        "Speed boost"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/545.ogg",
+      "caughtAt": 1775293391124,
+      "taskCompleted": {
+        "id": "team-build",
+        "emoji": "🏗️",
+        "titleRu": "Командная стройка!",
+        "descriptionRu": "Вместе постройте дом для этого покемона из подручных материалов за 3 минуты!",
+        "category": "team",
+        "difficulty": 3,
+        "xpReward": 100
+      },
+      "xpEarned": 100
+    },
+    {
+      "id": 548,
+      "name": "Petilil",
+      "nameRu": "Petilil",
+      "types": [
+        "grass"
+      ],
+      "typesRu": [
+        "Травяной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/548.gif",
+      "height": 0.5,
+      "weight": 6.6,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 45
+        },
+        {
+          "name": "Атака",
+          "value": 35
+        },
+        {
+          "name": "Защита",
+          "value": 50
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 70
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 50
+        },
+        {
+          "name": "Скорость",
+          "value": 30
+        }
+      ],
+      "abilities": [
+        "Chlorophyll",
+        "Own tempo",
+        "Leaf guard"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/548.ogg",
+      "caughtAt": 1775293526642,
+      "taskCompleted": {
+        "id": "group-pose",
+        "emoji": "📸",
+        "titleRu": "Семейное фото!",
+        "descriptionRu": "Всей семьёй изобразите этого покемона и сделайте фото!",
+        "category": "team",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 285,
+      "name": "Shroomish",
+      "nameRu": "Shroomish",
+      "types": [
+        "grass"
+      ],
+      "typesRu": [
+        "Травяной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/285.gif",
+      "height": 0.4,
+      "weight": 4.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 60
+        },
+        {
+          "name": "Атака",
+          "value": 40
+        },
+        {
+          "name": "Защита",
+          "value": 60
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 60
+        },
+        {
+          "name": "Скорость",
+          "value": 35
+        }
+      ],
+      "abilities": [
+        "Effect spore",
+        "Poison heal",
+        "Quick feet"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/285.ogg",
+      "caughtAt": 1775293561058,
+      "taskCompleted": {
+        "id": "catchphrase",
+        "emoji": "💬",
+        "titleRu": "Коронная фраза!",
+        "descriptionRu": "Придумай коронную фразу для этого покемона. Скажи её с выражением!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 45
+      },
+      "xpEarned": 45
+    },
+    {
+      "id": 285,
+      "name": "Shroomish",
+      "nameRu": "Shroomish",
+      "types": [
+        "grass"
+      ],
+      "typesRu": [
+        "Травяной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/285.gif",
+      "height": 0.4,
+      "weight": 4.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 60
+        },
+        {
+          "name": "Атака",
+          "value": 40
+        },
+        {
+          "name": "Защита",
+          "value": 60
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 60
+        },
+        {
+          "name": "Скорость",
+          "value": 35
+        }
+      ],
+      "abilities": [
+        "Effect spore",
+        "Poison heal",
+        "Quick feet"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/285.ogg",
+      "caughtAt": 1775293726380,
+      "xpEarned": 25
+    },
+    {
+      "id": 574,
+      "name": "Gothita",
+      "nameRu": "Gothita",
+      "types": [
+        "psychic"
+      ],
+      "typesRu": [
+        "Психический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/574.gif",
+      "height": 0.4,
+      "weight": 5.8,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 45
+        },
+        {
+          "name": "Атака",
+          "value": 30
+        },
+        {
+          "name": "Защита",
+          "value": 50
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 55
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 65
+        },
+        {
+          "name": "Скорость",
+          "value": 45
+        }
+      ],
+      "abilities": [
+        "Frisk",
+        "Competitive",
+        "Shadow tag"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/574.ogg",
+      "caughtAt": 1775293836057,
+      "taskCompleted": {
+        "id": "secret-power",
+        "emoji": "✨",
+        "titleRu": "Секретная сила!",
+        "descriptionRu": "Придумай суперсилу, которой нет ни у одного покемона, и дай ей название!",
+        "category": "fun",
+        "difficulty": 2,
+        "xpReward": 65
+      },
+      "xpEarned": 65
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "nameRu": "Сэндслэш",
+      "types": [
+        "ground"
+      ],
+      "typesRu": [
+        "Земляной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/28.gif",
+      "height": 1,
+      "weight": 29.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 75
+        },
+        {
+          "name": "Атака",
+          "value": 100
+        },
+        {
+          "name": "Защита",
+          "value": 110
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 45
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 55
+        },
+        {
+          "name": "Скорость",
+          "value": 65
+        }
+      ],
+      "abilities": [
+        "Sand veil",
+        "Sand rush"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/28.ogg",
+      "caughtAt": 1775293966416,
+      "taskCompleted": {
+        "id": "math-stats",
+        "emoji": "🔢",
+        "titleRu": "Покемон-математика!",
+        "descriptionRu": "Сложи ОЗ и Атаку этого покемона. Кто первый назовёт ответ — получает бонус!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 55
+      },
+      "xpEarned": 55,
+      "evolvedFrom": 294
+    },
+    {
+      "id": 647,
+      "name": "Keldeo-ordinary",
+      "nameRu": "Keldeo-ordinary",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "typesRu": [
+        "Водный",
+        "Боевой"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/647.gif",
+      "height": 1.4,
+      "weight": 48.5,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 91
+        },
+        {
+          "name": "Атака",
+          "value": 72
+        },
+        {
+          "name": "Защита",
+          "value": 90
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 129
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 90
+        },
+        {
+          "name": "Скорость",
+          "value": 108
+        }
+      ],
+      "abilities": [
+        "Justified"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/647.ogg",
+      "caughtAt": 1775294068353,
+      "taskCompleted": {
+        "id": "weakness",
+        "emoji": "🎯",
+        "titleRu": "Найди слабость!",
+        "descriptionRu": "Подумай, какой тип покемонов будет сильнее этого? Объясни почему!",
+        "category": "brain",
+        "difficulty": 3,
+        "xpReward": 75
+      },
+      "xpEarned": 75
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "nameRu": "Понита",
+      "types": [
+        "fire"
+      ],
+      "typesRu": [
+        "Огненный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/77.gif",
+      "height": 1,
+      "weight": 30,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 50
+        },
+        {
+          "name": "Атака",
+          "value": 85
+        },
+        {
+          "name": "Защита",
+          "value": 55
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 65
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 65
+        },
+        {
+          "name": "Скорость",
+          "value": 90
+        }
+      ],
+      "abilities": [
+        "Run away",
+        "Flash fire",
+        "Flame body"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/77.ogg",
+      "caughtAt": 1775294160636,
+      "taskCompleted": {
+        "id": "weakness",
+        "emoji": "🎯",
+        "titleRu": "Найди слабость!",
+        "descriptionRu": "Подумай, какой тип покемонов будет сильнее этого? Объясни почему!",
+        "category": "brain",
+        "difficulty": 3,
+        "xpReward": 75
+      },
+      "xpEarned": 75
+    },
+    {
+      "id": 293,
+      "name": "Whismur",
+      "nameRu": "Whismur",
+      "types": [
+        "normal"
+      ],
+      "typesRu": [
+        "Нормальный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/293.gif",
+      "height": 0.6,
+      "weight": 16.3,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 64
+        },
+        {
+          "name": "Атака",
+          "value": 51
+        },
+        {
+          "name": "Защита",
+          "value": 23
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 51
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 23
+        },
+        {
+          "name": "Скорость",
+          "value": 28
+        }
+      ],
+      "abilities": [
+        "Soundproof",
+        "Rattled"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg",
+      "caughtAt": 1775294284922,
+      "taskCompleted": {
+        "id": "team-story",
+        "emoji": "🎭",
+        "titleRu": "Покемон-театр!",
+        "descriptionRu": "Разыграйте сценку! Один — покемон, остальные — тренеры. Импровизация 1 минута!",
+        "category": "team",
+        "difficulty": 2,
+        "xpReward": 90
+      },
+      "xpEarned": 90
+    },
+    {
+      "id": 583,
+      "name": "Vanillish",
+      "nameRu": "Vanillish",
+      "types": [
+        "ice"
+      ],
+      "typesRu": [
+        "Ледяной"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/583.gif",
+      "height": 1.1,
+      "weight": 41,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 51
+        },
+        {
+          "name": "Атака",
+          "value": 65
+        },
+        {
+          "name": "Защита",
+          "value": 65
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 80
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 75
+        },
+        {
+          "name": "Скорость",
+          "value": 59
+        }
+      ],
+      "abilities": [
+        "Ice body",
+        "Snow cloak",
+        "Weak armor"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/583.ogg",
+      "caughtAt": 1775294344070,
+      "taskCompleted": {
+        "id": "pokemon-song",
+        "emoji": "🎵",
+        "titleRu": "Песня покемона!",
+        "descriptionRu": "Спой песенку про этого покемона на любой мотив! Минимум 4 строчки!",
+        "category": "fun",
+        "difficulty": 2,
+        "xpReward": 70
+      },
+      "xpEarned": 70
+    },
+    {
+      "id": 522,
+      "name": "Blitzle",
+      "nameRu": "Blitzle",
+      "types": [
+        "electric"
+      ],
+      "typesRu": [
+        "Электрический"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/522.gif",
+      "height": 0.8,
+      "weight": 29.8,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 45
+        },
+        {
+          "name": "Атака",
+          "value": 60
+        },
+        {
+          "name": "Защита",
+          "value": 32
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 50
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 32
+        },
+        {
+          "name": "Скорость",
+          "value": 76
+        }
+      ],
+      "abilities": [
+        "Lightning rod",
+        "Motor drive",
+        "Sap sipper"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/522.ogg",
+      "caughtAt": 1775294441556,
+      "taskCompleted": {
+        "id": "group-pose",
+        "emoji": "📸",
+        "titleRu": "Семейное фото!",
+        "descriptionRu": "Всей семьёй изобразите этого покемона и сделайте фото!",
+        "category": "team",
+        "difficulty": 1,
+        "xpReward": 60
+      },
+      "xpEarned": 60
+    },
+    {
+      "id": 86,
+      "name": "Seel",
+      "nameRu": "Сил",
+      "types": [
+        "water"
+      ],
+      "typesRu": [
+        "Водный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/86.gif",
+      "height": 1.1,
+      "weight": 90,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 65
+        },
+        {
+          "name": "Атака",
+          "value": 45
+        },
+        {
+          "name": "Защита",
+          "value": 55
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 45
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 70
+        },
+        {
+          "name": "Скорость",
+          "value": 45
+        }
+      ],
+      "abilities": [
+        "Thick fat",
+        "Hydration",
+        "Ice body"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/86.ogg",
+      "caughtAt": 1775294538941,
+      "taskCompleted": {
+        "id": "funny-face",
+        "emoji": "🤪",
+        "titleRu": "Смешная рожица!",
+        "descriptionRu": "Скорчи рожицу как этот покемон! Самый смешной получает бонус!",
+        "category": "fun",
+        "difficulty": 1,
+        "xpReward": 30
+      },
+      "xpEarned": 30
+    },
+    {
+      "id": 531,
+      "name": "Audino",
+      "nameRu": "Audino",
+      "types": [
+        "normal"
+      ],
+      "typesRu": [
+        "Нормальный"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/531.gif",
+      "height": 1.1,
+      "weight": 31,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 103
+        },
+        {
+          "name": "Атака",
+          "value": 60
+        },
+        {
+          "name": "Защита",
+          "value": 86
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 60
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 86
+        },
+        {
+          "name": "Скорость",
+          "value": 50
+        }
+      ],
+      "abilities": [
+        "Healer",
+        "Regenerator",
+        "Klutz"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/531.ogg",
+      "caughtAt": 1775294610226,
+      "taskCompleted": {
+        "id": "rhyme",
+        "emoji": "📝",
+        "titleRu": "Покемон-рифма!",
+        "descriptionRu": "Придумай рифму к имени этого покемона! Чем необычнее — тем больше очков!",
+        "category": "brain",
+        "difficulty": 2,
+        "xpReward": 65
+      },
+      "xpEarned": 65
+    },
+    {
+      "id": 316,
+      "name": "Gulpin",
+      "nameRu": "Gulpin",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/316.gif",
+      "height": 0.4,
+      "weight": 10.3,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 70
+        },
+        {
+          "name": "Атака",
+          "value": 43
+        },
+        {
+          "name": "Защита",
+          "value": 53
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 43
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 53
+        },
+        {
+          "name": "Скорость",
+          "value": 40
+        }
+      ],
+      "abilities": [
+        "Liquid ooze",
+        "Sticky hold",
+        "Gluttony"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/316.ogg",
+      "caughtAt": 1775294676520,
+      "taskCompleted": {
+        "id": "team-quiz",
+        "emoji": "❓",
+        "titleRu": "Семейная викторина!",
+        "descriptionRu": "Каждый член семьи задаёт вопрос про этого покемона. Кто больше знает?",
+        "category": "team",
+        "difficulty": 2,
+        "xpReward": 80
+      },
+      "xpEarned": 80
+    },
+    {
+      "id": 88,
+      "name": "Grimer",
+      "nameRu": "Граймер",
+      "types": [
+        "poison"
+      ],
+      "typesRu": [
+        "Ядовитый"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+      "spriteAnimated": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/88.gif",
+      "height": 0.9,
+      "weight": 30,
+      "stats": [
+        {
+          "name": "ОЗ",
+          "value": 80
+        },
+        {
+          "name": "Атака",
+          "value": 80
+        },
+        {
+          "name": "Защита",
+          "value": 50
+        },
+        {
+          "name": "Спец. Атака",
+          "value": 40
+        },
+        {
+          "name": "Спец. Защита",
+          "value": 50
+        },
+        {
+          "name": "Скорость",
+          "value": 25
+        }
+      ],
+      "abilities": [
+        "Stench",
+        "Sticky hold",
+        "Poison touch"
+      ],
+      "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/88.ogg",
+      "caughtAt": 1775295043028,
+      "taskCompleted": {
+        "id": "secret-power",
+        "emoji": "✨",
+        "titleRu": "Секретная сила!",
+        "descriptionRu": "Придумай суперсилу, которой нет ни у одного покемона, и дай ей название!",
+        "category": "fun",
+        "difficulty": 2,
+        "xpReward": 65
+      },
+      "xpEarned": 65
+    }
+  ],
+  "spentXP": 2668
+}
